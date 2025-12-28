@@ -14,7 +14,7 @@
     "bootstrap": "^5.3.2",
     "bootstrap-icons": "^1.11.3",
     "ethers": "^6.10.0",
-    "fhenixjs": "^0.2.1",
+    "luxfhejs": "^0.2.1",
     "mitt": "^3.0.1",
     "nuxt": "^3.10.1",
     "pinia": "^2.1.7",
