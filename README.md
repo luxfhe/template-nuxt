@@ -1,13 +1,13 @@
-# Nuxt 3 + Fhenixjs + Ethers.js + Bootstrap Starter
+# Nuxt 3 + LuxFHEjs + Ethers.js + Bootstrap Starter
 
-With this template you can easily start developing your Fhenix front-end app using Nuxt 3 (vue3).  
+With this template you can easily start developing your LuxFHE front-end app using Nuxt 3 (vue3).  
 This template uses composables with the new Composition-API, you can read more about it [here](https://nuxt.com/docs/guide/concepts/auto-imports)  
   
 **This template contains:**
 - [x] Integration with MetaMask
-- [x] Adding Fhenix Network chain information
+- [x] Adding LuxFHE Network chain information
 - [x] Basic interaction with the chain (get balance)
-- [x] Basic example of number encryption using Fhenix.js
+- [x] Basic example of number encryption using LuxFHE.js
 
 ## Recommended VSCode extensions
 **vscode-goto-alias**   
@@ -25,7 +25,7 @@ You can override the default values of these variables:
 | Variable   |     Default Value      |
 |----------|:-------------:|
 | NUXT_ENV_NETWORK_CHAIN_ID |  412346 | 
-| NUXT_ENV_NETWORK_RPC_URL |    https://test01.fhenix.zone/evm   | 
+| NUXT_ENV_NETWORK_RPC_URL |    https://test01.luxfhe.zone/evm   | 
 | NUXT_ENV_NETWORK_EXPLORER_URL | https://your.explorer.url.here | 
 
 ## Files
